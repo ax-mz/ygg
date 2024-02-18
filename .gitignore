@@ -1,0 +1,5 @@
+*.log
+.cookie-ygg
+.SHARED_VARIABLES
+categories.*
+*.sh
