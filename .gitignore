@@ -3,3 +3,4 @@
 .SHARED_VARIABLES
 categories.*
 *.sh
+cat-subcat
